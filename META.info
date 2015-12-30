@@ -1,0 +1,19 @@
+{
+    "name"        : "Config::MVP",
+    "version"     : "*",
+    "description" : ".ini file parser that handles repeated keys for Perl 6",
+    "provides": {
+        "Config::MVP" : "lib/Config/MVP.pm"
+    },
+    "depends" : [],
+    "authors" : [
+        "Tadeusz “tadzik” Sośnierz",
+        "Nobuo Danjou",
+        "Dave Rolsky <autarch@urth.org"
+    ],
+    "support" : {
+        "bugtracker" : "https://github.com/autarch/perl6-Config-MVP/issues",
+        "source" : "git://github.com/autarch/perl6-Config-MVP.git"
+    },
+    "source-url"  : "git://github.com/autarch/perl6-Config-MVP.git"
+}
